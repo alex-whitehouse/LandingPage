@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: space-between;
+    align-items: center;
+    color: #f0faf8;
+    font-size: 24px;
+}
+
+.right-align {
+    display: flex;
+    justify-content: space-around;
+}
+
+.right-align h4 {
+    margin-left: 20px; /* Adds space to the left of each H3 */
+}
